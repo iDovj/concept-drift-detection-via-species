@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+*.zip
+.ipynb_checkpoints/
+notebooks/
+data2/
+SpecialAL-core/     
+src/SpeciAL-core

@@ -1,0 +1,832 @@
+log_name,drift_id,change_type,drift_type,complexity,change_point,log_size,num_driftslog_1017_1708943006.xes,"['drift_1', 'drift_1', 'drift_2']","['gradual_start', 'gradual_end', 'sudden']","['gradual', 'gradual', 'sudden']",,"[1970, 2537, 4142]",5978.0
+log_1003_1708942940.xes,['drift_1'],['sudden'],['sudden'],,[1296],2608.0,1
+log_1009_1708942959.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1749, 3355, 5348]",7169.0,3
+log_100_1708942821.xes,['drift_1'],['sudden'],['sudden'],,[1036],2112.0,1
+log_1011_1708942978.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1734, 3470, 4902]",6666.0,3
+log_1012_1708942983.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1661, 3049]",4477.0,2
+log_1016_1708943001.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1229, 3050, 4213]",5705.0,3
+log_101_1708942821.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1107, 2973]",4272.0,2
+log_1025_1708943060.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1353, 3184]",5126.0,2
+log_1027_1708942889.xes,['drift_1'],['sudden'],['sudden'],,[1655],3295.0,1
+log_1030_1708942904.xes,['drift_1'],['sudden'],['sudden'],,[1851],3265.0,1
+log_1036_1708942947.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1730, 2860]",4203.0,2
+log_1040_1708942977.xes,['drift_1'],['sudden'],['sudden'],,[1144],2370.0,1
+log_1041_1708942979.xes,['drift_1'],['sudden'],['sudden'],,[1195],2607.0,1
+log_1042_1708942980.xes,['drift_1'],['sudden'],['sudden'],,[1324],2603.0,1
+log_1043_1708942982.xes,['drift_1'],['sudden'],['sudden'],,[1822],3295.0,1
+log_1047_1708942998.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1236, 3109]",4803.0,2
+log_1050_1708943014.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1613, 3411, 4821]",6771.0,3
+log_1051_1708943029.xes,['drift_1'],['sudden'],['sudden'],,[1146],2731.0,1
+log_1053_1708943033.xes,['drift_1'],['sudden'],['sudden'],,[1559],2902.0,1
+log_1056_1708943050.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1243, 2650]",4065.0,2
+log_1062_1708943075.xes,['drift_1'],['sudden'],['sudden'],,[1049],2076.0,1
+log_1063_1708943076.xes,['drift_1'],['sudden'],['sudden'],,[1089],2504.0,1
+log_1068_1708942915.xes,['drift_1'],['sudden'],['sudden'],,[1537],3332.0,1
+log_1069_1708942918.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1166, 2529, 3881]",5288.0,3
+log_1073_1708942952.xes,['drift_1'],['sudden'],['sudden'],,[1859],2992.0,1
+log_1074_1708942954.xes,['drift_1'],['sudden'],['sudden'],,[1510],2739.0,1
+log_1076_1708942961.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1047, 2626]",3676.0,2
+log_1078_1708942966.xes,['drift_1'],['sudden'],['sudden'],,[1628],3098.0,1
+log_1081_1708942983.xes,['drift_1'],['sudden'],['sudden'],,[1865],3691.0,1
+log_1092_1708943050.xes,['drift_1'],['sudden'],['sudden'],,[1490],3394.0,1
+log_1098_1708943068.xes,['drift_1'],['sudden'],['sudden'],,[1500],3421.0,1
+log_1100_1708943077.xes,['drift_1'],['sudden'],['sudden'],,[1223],2235.0,1
+log_1103_1708942893.xes,['drift_1'],['sudden'],['sudden'],,[1097],2953.0,1
+log_1104_1708942895.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1933, 3406, 4971]",6950.0,3
+log_1107_1708942912.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1836, 3777]",5356.0,2
+log_1108_1708942920.xes,['drift_1'],['sudden'],['sudden'],,[1367],3124.0,1
+log_1109_1708942923.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1630, 3466, 5028]",6735.0,3
+log_1112_1708942954.xes,['drift_1'],['sudden'],['sudden'],,[1550],3421.0,1
+log_1119_1708942980.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1017, 2064]",3337.0,2
+log_111_1708942873.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1678, 2901]",3920.0,2
+log_1122_1708942992.xes,['drift_1'],['sudden'],['sudden'],,[1338],2826.0,1
+log_1128_1708943011.xes,['drift_1'],['sudden'],['sudden'],,[1332],2889.0,1
+log_1134_1708943035.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1213, 3090, 4249]",5789.0,3
+log_1135_1708943042.xes,['drift_1'],['sudden'],['sudden'],,[1032],2363.0,1
+log_1136_1708943043.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1951, 3126, 4438]",6398.0,3
+log_1137_1708943051.xes,['drift_1'],['sudden'],['sudden'],,[1545],2655.0,1
+log_1141_1708942896.xes,['drift_1'],['sudden'],['sudden'],,[1758],3220.0,1
+log_1155_1708942969.xes,['drift_1'],['sudden'],['sudden'],,[1476],3279.0,1
+log_1160_1708942991.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1768, 2982, 4642]",5860.0,3
+log_1162_1708942996.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1376, 2909, 4462]",5853.0,3
+log_1165_1708943010.xes,['drift_1'],['sudden'],['sudden'],,[1697],3367.0,1
+log_1168_1708943034.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1602, 2750, 3807]",5458.0,3
+log_1172_1708943057.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1526, 2738, 4489]",6122.0,3
+log_1174_1708943070.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1240, 2934]",4321.0,2
+log_1176_1708943079.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1339, 2885]",4803.0,2
+log_1190_1708942949.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1139, 2476, 4413]",5417.0,3
+log_119_1708942749.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1313, 2523, 4271]",5491.0,3
+log_1204_1708943011.xes,['drift_1'],['sudden'],['sudden'],,[1800],3399.0,1
+log_1214_1708943057.xes,['drift_1'],['sudden'],['sudden'],,[1642],3110.0,1
+log_1215_1708943060.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1412, 2985]",4140.0,2
+log_1219_1708942901.xes,['drift_1'],['sudden'],['sudden'],,[1653],3411.0,1
+log_1222_1708942908.xes,['drift_1'],['sudden'],['sudden'],,[1135],2302.0,1
+log_1232_1708942960.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1617, 3200]",4685.0,2
+log_1235_1708942979.xes,['drift_1'],['sudden'],['sudden'],,[1592],3444.0,1
+log_1242_1708943004.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1870, 3246, 5118]",7034.0,3
+log_1246_1708943028.xes,['drift_1'],['sudden'],['sudden'],,[1137],2917.0,1
+log_1248_1708943031.xes,['drift_1'],['sudden'],['sudden'],,[1099],2687.0,1
+log_1249_1708943035.xes,['drift_1'],['sudden'],['sudden'],,[1350],2907.0,1
+log_1256_1708942908.xes,['drift_1'],['sudden'],['sudden'],,[1992],3186.0,1
+log_1258_1708942912.xes,['drift_1'],['sudden'],['sudden'],,[1460],2523.0,1
+log_1267_1708942944.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1997, 3641]",5639.0,2
+log_126_1708942785.xes,['drift_1'],['sudden'],['sudden'],,[1421],2834.0,1
+log_1283_1708943018.xes,['drift_1'],['sudden'],['sudden'],,[1957],3323.0,1
+log_1285_1708943026.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1598, 3143, 4333]",5495.0,3
+log_1287_1708943034.xes,['drift_1'],['sudden'],['sudden'],,[1307],2426.0,1
+log_1298_1708942925.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1303, 2755]",4020.0,2
+log_1310_1708942999.xes,['drift_1'],['sudden'],['sudden'],,[1015],2688.0,1
+log_1313_1708943007.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1949, 3163]",4213.0,2
+log_1317_1708943029.xes,['drift_1'],['sudden'],['sudden'],,[1130],2505.0,1
+log_1321_1708943046.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1980, 3064, 4773]",6211.0,3
+log_1327_1708943080.xes,['drift_1'],['sudden'],['sudden'],,[1943],3530.0,1
+log_1328_1708943082.xes,['drift_1'],['sudden'],['sudden'],,[1244],2529.0,1
+log_1335_1708942925.xes,['drift_1'],['sudden'],['sudden'],,[1874],3111.0,1
+log_1340_1708942960.xes,['drift_1'],['sudden'],['sudden'],,[1623],3116.0,1
+log_1342_1708942965.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1358, 3261]",4260.0,2
+log_1344_1708942972.xes,['drift_1'],['sudden'],['sudden'],,[1465],2605.0,1
+log_1347_1708942984.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1294, 2600]",3903.0,2
+log_1348_1708942986.xes,['drift_1'],['sudden'],['sudden'],,[1160],2599.0,1
+log_1351_1708942994.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1515, 3286, 5254]",7150.0,3
+log_1356_1708943015.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1597, 3074]",4143.0,2
+log_1368_1708943063.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1832, 3702, 5163]",6613.0,3
+log_136_1708942839.xes,['drift_1'],['sudden'],['sudden'],,[1072],2093.0,1
+log_1373_1708942923.xes,['drift_1'],['sudden'],['sudden'],,[1360],3068.0,1
+log_1374_1708942926.xes,['drift_1'],['sudden'],['sudden'],,[1649],3114.0,1
+log_1376_1708942934.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1601, 3589]",5543.0,2
+log_1377_1708942944.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1867, 3282]",4638.0,2
+log_1384_1708942989.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1468, 3176]",4988.0,2
+log_1385_1708942992.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1365, 2725, 3916]",5830.0,3
+log_1390_1708943014.xes,['drift_1'],['sudden'],['sudden'],,[1287],2815.0,1
+log_139_1708942856.xes,['drift_1'],['sudden'],['sudden'],,[1980],3059.0,1
+log_1401_1708943069.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1934, 3033]",4987.0,2
+log_1403_1708943085.xes,['drift_1'],['sudden'],['sudden'],,[1740],2974.0,1
+log_1404_1708943090.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1460, 3026, 4432]",6162.0,3
+log_1405_1708943094.xes,['drift_1'],['sudden'],['sudden'],,[1476],2860.0,1
+log_1406_1708943097.xes,['drift_1'],['sudden'],['sudden'],,[1852],3047.0,1
+log_1407_1708942906.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1299, 3022]",4841.0,2
+log_140_1708942861.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[2000, 3604]",4691.0,2
+log_1412_1708942939.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1437, 3022, 4585]",6561.0,3
+log_1422_1708942989.xes,['drift_1'],['sudden'],['sudden'],,[1077],2825.0,1
+log_1423_1708942991.xes,['drift_1'],['sudden'],['sudden'],,[1875],3028.0,1
+log_1424_1708942995.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1275, 2714, 3780]",4875.0,3
+log_1426_1708943001.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1959, 3883, 5687]",7343.0,3
+log_1429_1708943026.xes,['drift_1'],['sudden'],['sudden'],,[1130],2603.0,1
+log_142_1708942869.xes,['drift_1'],['sudden'],['sudden'],,[1106],2553.0,1
+log_1430_1708943028.xes,['drift_1'],['sudden'],['sudden'],,[1092],2976.0,1
+log_1441_1708943100.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1581, 3456]",4779.0,2
+log_1450_1708942937.xes,['drift_1'],['sudden'],['sudden'],,[1516],3434.0,1
+log_1457_1708942972.xes,['drift_1'],['sudden'],['sudden'],,[1690],3088.0,1
+log_1458_1708942974.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1009, 2858]",4467.0,2
+log_1460_1708942988.xes,['drift_1'],['sudden'],['sudden'],,[1014],2465.0,1
+log_1465_1708943012.xes,['drift_1'],['sudden'],['sudden'],,[1888],3231.0,1
+log_146_1708942900.xes,['drift_1'],['sudden'],['sudden'],,[1597],2600.0,1
+log_1471_1708943045.xes,['drift_1'],['sudden'],['sudden'],,[1070],2276.0,1
+log_1472_1708943051.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1851, 2918, 4587]",5664.0,3
+log_1474_1708943056.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1864, 3441]",5059.0,2
+log_1475_1708943059.xes,['drift_1'],['sudden'],['sudden'],,[1958],3163.0,1
+log_1478_1708943072.xes,['drift_1'],['sudden'],['sudden'],,[1859],3137.0,1
+log_1479_1708943076.xes,['drift_1'],['sudden'],['sudden'],,[1245],2708.0,1
+log_147_1708942902.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1042, 2187]",3888.0,2
+log_1480_1708943079.xes,['drift_1'],['sudden'],['sudden'],,[1963],3442.0,1
+log_1483_1708942922.xes,['drift_1'],['sudden'],['sudden'],,[1701],3603.0,1
+log_1485_1708942934.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1606, 2698]",4115.0,2
+log_148_1708942907.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1954, 3093]",4342.0,2
+log_1492_1708942964.xes,['drift_1'],['sudden'],['sudden'],,[1789],3180.0,1
+log_1493_1708942967.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1143, 2628]",4061.0,2
+log_1494_1708942970.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1432, 2603]",4443.0,2
+log_1498_1708942985.xes,['drift_1'],['sudden'],['sudden'],,[1494],3280.0,1
+log_1499_1708942988.xes,['drift_1'],['sudden'],['sudden'],,[1285],3004.0,1
+log_149_1708942912.xes,['drift_1'],['sudden'],['sudden'],,[1712],3283.0,1
+log_1507_1708943024.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1109, 3013]",4264.0,2
+log_150_1708942917.xes,['drift_1'],['sudden'],['sudden'],,[1445],3058.0,1
+log_1515_1708943068.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1990, 3501]",5265.0,2
+log_151_1708942919.xes,['drift_1'],['sudden'],['sudden'],,[1126],2660.0,1
+log_1521_1708942922.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1367, 2632]",3975.0,2
+log_1526_1708942959.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1837, 3019]",4169.0,2
+log_1530_1708942977.xes,['drift_1'],['sudden'],['sudden'],,[1270],3265.0,1
+log_1534_1708942989.xes,['drift_1'],['sudden'],['sudden'],,[1803],2997.0,1
+log_1537_1708943004.xes,['drift_1'],['sudden'],['sudden'],,[1545],2847.0,1
+log_1540_1708943020.xes,['drift_1'],['sudden'],['sudden'],,[1981],3269.0,1
+log_1542_1708943026.xes,['drift_1'],['sudden'],['sudden'],,[1170],2939.0,1
+log_1553_1708943080.xes,['drift_1'],['sudden'],['sudden'],,[1936],3666.0,1
+log_1555_1708943084.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1133, 2744]",4371.0,2
+log_1556_1708943086.xes,['drift_1'],['sudden'],['sudden'],,[1555],3188.0,1
+log_1567_1708942969.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1883, 3215]",4843.0,2
+log_1568_1708942972.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1153, 2195]",3977.0,2
+log_1570_1708942982.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1087, 2418]",4161.0,2
+log_1574_1708943001.xes,['drift_1'],['sudden'],['sudden'],,[1530],3219.0,1
+log_1575_1708943004.xes,['drift_1'],['sudden'],['sudden'],,[1281],2698.0,1
+log_157_1708942747.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1017, 2766]",4349.0,2
+log_1583_1708943078.xes,['drift_1'],['sudden'],['sudden'],,[1199],2254.0,1
+log_1587_1708943107.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1227, 2406]",4306.0,2
+log_1589_1708943115.xes,['drift_1'],['sudden'],['sudden'],,[1492],3339.0,1
+log_158_1708942755.xes,['drift_1'],['sudden'],['sudden'],,[1820],3516.0,1
+log_1595_1708943139.xes,['drift_1'],['sudden'],['sudden'],,[1011],2929.0,1
+log_1599_1708942941.xes,['drift_1'],['sudden'],['sudden'],,[1450],2647.0,1
+log_1602_1708942947.xes,['drift_1'],['sudden'],['sudden'],,[1337],3300.0,1
+log_1606_1708942974.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1330, 2782]",4023.0,2
+log_1610_1708942983.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1117, 3042, 4972]",6045.0,3
+log_1615_1708943013.xes,['drift_1'],['sudden'],['sudden'],,[1866],3383.0,1
+log_1621_1708943064.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1445, 3349, 5054]",7046.0,3
+log_162_1708942765.xes,['drift_1'],['sudden'],['sudden'],,[1504],2642.0,1
+log_1632_1708943126.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1558, 2638, 3944]",5330.0,3
+log_1637_1708942948.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1905, 3172]",4194.0,2
+log_1638_1708942952.xes,['drift_1'],['sudden'],['sudden'],,[1013],2697.0,1
+log_1641_1708942974.xes,['drift_1'],['sudden'],['sudden'],,[1664],2708.0,1
+log_1645_1708942987.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1357, 3182]",4517.0,2
+log_1649_1708943004.xes,['drift_1'],['sudden'],['sudden'],,[1519],2819.0,1
+log_1653_1708943026.xes,['drift_1'],['sudden'],['sudden'],,[1492],2610.0,1
+log_1659_1708943059.xes,['drift_1'],['sudden'],['sudden'],,[1933],3855.0,1
+log_1665_1708943091.xes,['drift_1'],['sudden'],['sudden'],,[1622],2793.0,1
+log_1670_1708943132.xes,['drift_1'],['sudden'],['sudden'],,[1781],3239.0,1
+log_1673_1708942932.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1469, 3332]",4360.0,2
+log_1678_1708942954.xes,['drift_1'],['sudden'],['sudden'],,[1999],3480.0,1
+log_167_1708942792.xes,['drift_1'],['sudden'],['sudden'],,[1280],2702.0,1
+log_1687_1708943017.xes,['drift_1'],['sudden'],['sudden'],,[1103],2432.0,1
+log_1688_1708943019.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1282, 2737, 4258]",6202.0,3
+log_1690_1708943033.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1731, 3675]",5593.0,2
+log_1693_1708943045.xes,['drift_1'],['sudden'],['sudden'],,[1754],2932.0,1
+log_1704_1708943098.xes,['drift_1'],['sudden'],['sudden'],,[1524],2757.0,1
+log_1706_1708943106.xes,['drift_1'],['sudden'],['sudden'],,[1310],3024.0,1
+log_1712_1708942943.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1226, 2870, 4324]",6154.0,3
+log_1714_1708942952.xes,['drift_1'],['sudden'],['sudden'],,[1524],2924.0,1
+log_1715_1708942955.xes,['drift_1'],['sudden'],['sudden'],,[1860],3684.0,1
+log_1721_1708942988.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1495, 2973]",4738.0,2
+log_1722_1708942992.xes,['drift_1'],['sudden'],['sudden'],,[1759],3324.0,1
+log_1728_1708943028.xes,['drift_1'],['sudden'],['sudden'],,[1591],2832.0,1
+log_1733_1708943057.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1279, 2706, 4532]",5598.0,3
+log_1736_1708943063.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1131, 3120, 4363]",5504.0,3
+log_1737_1708943070.xes,['drift_1'],['sudden'],['sudden'],,[1531],3521.0,1
+log_1739_1708943078.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1863, 3608]",5166.0,2
+log_174_1708942814.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1699, 3378]",4473.0,2
+log_1753_1708942958.xes,['drift_1'],['sudden'],['sudden'],,[1811],2910.0,1
+log_1760_1708942993.xes,['drift_1'],['sudden'],['sudden'],,[1376],2963.0,1
+log_1762_1708943008.xes,['drift_1'],['sudden'],['sudden'],,[1427],3075.0,1
+log_1765_1708943035.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1244, 2288, 3683]",4714.0,3
+log_1782_1708943116.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1802, 3568]",4756.0,2
+log_1789_1708942945.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1037, 2306]",4160.0,2
+log_1792_1708942967.xes,['drift_1'],['sudden'],['sudden'],,[1232],2396.0,1
+log_1793_1708942969.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1746, 3379, 4846]",6604.0,3
+log_1798_1708942994.xes,['drift_1'],['sudden'],['sudden'],,[1040],2251.0,1
+log_1804_1708943025.xes,['drift_1'],['sudden'],['sudden'],,[1914],3255.0,1
+log_1812_1708943064.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1121, 2289]",4043.0,2
+log_1813_1708943067.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1079, 2316, 3914]",5454.0,3
+log_1814_1708943071.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1020, 2144]",3853.0,2
+log_1821_1708943092.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1276, 2761]",4097.0,2
+log_1826_1708942953.xes,['drift_1'],['sudden'],['sudden'],,[1202],3038.0,1
+log_1834_1708942990.xes,['drift_1'],['sudden'],['sudden'],,[1078],2735.0,1
+log_1841_1708943039.xes,['drift_1'],['sudden'],['sudden'],,[1474],3427.0,1
+log_1842_1708943042.xes,['drift_1'],['sudden'],['sudden'],,[1553],3515.0,1
+log_1846_1708943054.xes,['drift_1'],['sudden'],['sudden'],,[1641],3296.0,1
+log_1847_1708943056.xes,['drift_1'],['sudden'],['sudden'],,[1536],3247.0,1
+log_185_1708942873.xes,['drift_1'],['sudden'],['sudden'],,[1566],3174.0,1
+log_1869_1708942981.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1528, 3232]",4985.0,2
+log_186_1708942875.xes,['drift_1'],['sudden'],['sudden'],,[1412],2738.0,1
+log_1882_1708943039.xes,['drift_1'],['sudden'],['sudden'],,[1653],3325.0,1
+log_1886_1708943050.xes,['drift_1'],['sudden'],['sudden'],,[1964],3788.0,1
+log_1888_1708943063.xes,['drift_1'],['sudden'],['sudden'],,[1702],3317.0,1
+log_1889_1708943066.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1318, 2420, 3549]",5153.0,3
+log_1890_1708943096.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1181, 3034]",4323.0,2
+log_1891_1708943098.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1776, 2796]",4686.0,2
+log_1893_1708943108.xes,['drift_1'],['sudden'],['sudden'],,[1339],2601.0,1
+log_1895_1708943113.xes,['drift_1'],['sudden'],['sudden'],,[1169],2774.0,1
+log_1899_1708943131.xes,['drift_1'],['sudden'],['sudden'],,[1356],2688.0,1
+log_1900_1708943134.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1443, 3099]",4413.0,2
+log_1901_1708943058.xes,['drift_1'],['sudden'],['sudden'],,[1022],2697.0,1
+log_1912_1708943099.xes,['drift_1'],['sudden'],['sudden'],,[1576],3150.0,1
+log_1917_1708943122.xes,['drift_1'],['sudden'],['sudden'],,[1930],3272.0,1
+log_1925_1708943160.xes,['drift_1'],['sudden'],['sudden'],,[1462],2737.0,1
+log_1929_1708943180.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1736, 3185, 5038]",6201.0,3
+log_1932_1708943192.xes,['drift_1'],['sudden'],['sudden'],,[1355],2496.0,1
+log_1939_1708943058.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1037, 2749]",4445.0,2
+log_1948_1708943093.xes,['drift_1'],['sudden'],['sudden'],,[1742],2841.0,1
+log_1950_1708943100.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1407, 3223]",4516.0,2
+log_1952_1708943110.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1238, 2737]",4590.0,2
+log_1953_1708943114.xes,['drift_1'],['sudden'],['sudden'],,[1435],3283.0,1
+log_1960_1708943150.xes,['drift_1'],['sudden'],['sudden'],,[1248],2476.0,1
+log_1966_1708943181.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1900, 3463]",4634.0,2
+log_1973_1708943209.xes,['drift_1'],['sudden'],['sudden'],,[1087],2642.0,1
+log_1974_1708943215.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1065, 2764]",3852.0,2
+log_1975_1708943222.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1742, 3097]",4243.0,2
+log_1988_1708943101.xes,['drift_1'],['sudden'],['sudden'],,[1063],2957.0,1
+log_198_1708942774.xes,['drift_1'],['sudden'],['sudden'],,[1287],3227.0,1
+log_1991_1708943118.xes,['drift_1'],['sudden'],['sudden'],,[1845],3310.0,1
+log_1997_1708943134.xes,['drift_1'],['sudden'],['sudden'],,[1401],2456.0,1
+log_199_1708942779.xes,['drift_1'],['sudden'],['sudden'],,[1721],3250.0,1
+log_2001_1708943148.xes,['drift_1'],['sudden'],['sudden'],,[1265],2897.0,1
+log_2006_1708943170.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1740, 3682]",5512.0,2
+log_200_1708942781.xes,['drift_1'],['sudden'],['sudden'],,[1381],3060.0,1
+log_2014_1708943208.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1409, 3099]",4255.0,2
+log_2018_1708943075.xes,['drift_1'],['sudden'],['sudden'],,[1099],2168.0,1
+log_2023_1708943097.xes,['drift_1'],['sudden'],['sudden'],,[1986],3239.0,1
+log_2027_1708943110.xes,['drift_1'],['sudden'],['sudden'],,[1933],2994.0,1
+log_2028_1708943112.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1859, 2936]",4491.0,2
+log_2030_1708943120.xes,['drift_1'],['sudden'],['sudden'],,[1478],2570.0,1
+log_2031_1708943127.xes,['drift_1'],['sudden'],['sudden'],,[1067],2324.0,1
+log_204_1708942799.xes,['drift_1'],['sudden'],['sudden'],,[1548],3522.0,1
+log_2050_1708943211.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1488, 2606, 3694]",5247.0,3
+log_2055_1708943072.xes,['drift_1'],['sudden'],['sudden'],,[1457],2883.0,1
+log_2058_1708943083.xes,['drift_1'],['sudden'],['sudden'],,[1997],3161.0,1
+log_2061_1708943090.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1417, 2960]",4763.0,2
+log_2063_1708943105.xes,['drift_1'],['sudden'],['sudden'],,[1855],3036.0,1
+log_206_1708942805.xes,['drift_1'],['sudden'],['sudden'],,[1744],3209.0,1
+log_2073_1708943150.xes,['drift_1'],['sudden'],['sudden'],,[1603],2969.0,1
+log_2075_1708943156.xes,['drift_1'],['sudden'],['sudden'],,[1187],2548.0,1
+log_2081_1708943169.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1102, 3047]",4917.0,2
+log_2084_1708943184.xes,['drift_1'],['sudden'],['sudden'],,[1807],3312.0,1
+log_2086_1708943196.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1051, 2154, 4132]",5577.0,3
+log_2089_1708943216.xes,['drift_1'],['sudden'],['sudden'],,[1556],3131.0,1
+log_2095_1708943089.xes,['drift_1'],['sudden'],['sudden'],,[1830],3072.0,1
+log_2099_1708943103.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1625, 3488, 4993]",6665.0,3
+log_2111_1708943169.xes,['drift_1'],['sudden'],['sudden'],,[1009],2512.0,1
+log_2112_1708943172.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1894, 3394]",4963.0,2
+log_2113_1708943177.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1698, 3347]",4781.0,2
+log_2115_1708943188.xes,['drift_1'],['sudden'],['sudden'],,[1241],3202.0,1
+log_2117_1708943196.xes,['drift_1'],['sudden'],['sudden'],,[1783],3008.0,1
+log_2118_1708943198.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1875, 2951]",4255.0,2
+log_2122_1708943211.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1132, 2699]",4628.0,2
+log_2134_1708943116.xes,['drift_1'],['sudden'],['sudden'],,[1559],3049.0,1
+log_2138_1708943142.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1447, 2722]",4608.0,2
+log_2143_1708943165.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1624, 2865]",4694.0,2
+log_2145_1708943172.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1130, 2171, 3841]",5662.0,3
+log_2151_1708943207.xes,['drift_1'],['sudden'],['sudden'],,[1820],2874.0,1
+log_2157_1708943230.xes,['drift_1'],['sudden'],['sudden'],,[1776],3319.0,1
+log_2168_1708943090.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1826, 3711]",5438.0,2
+log_2170_1708943102.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1389, 3245]",4948.0,2
+log_2174_1708943130.xes,['drift_1'],['sudden'],['sudden'],,[1076],2364.0,1
+log_2179_1708943162.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1810, 3003]",4207.0,2
+log_2186_1708943190.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1928, 3791, 5467]",7432.0,3
+log_2187_1708943203.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1423, 2521, 4042]",5252.0,3
+log_2194_1708943233.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1295, 2570, 3777]",5277.0,3
+log_2196_1708943243.xes,['drift_1'],['sudden'],['sudden'],,[1444],3271.0,1
+log_2197_1708943244.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1476, 2673]",4359.0,2
+log_219_1708942859.xes,['drift_1'],['sudden'],['sudden'],,[1327],3130.0,1
+log_2201_1708943272.xes,['drift_1'],['sudden'],['sudden'],,[1707],3043.0,1
+log_2204_1708943291.xes,['drift_1'],['sudden'],['sudden'],,[1277],3217.0,1
+log_2218_1708943156.xes,['drift_1'],['sudden'],['sudden'],,[1215],3137.0,1
+log_2223_1708943171.xes,['drift_1'],['sudden'],['sudden'],,[1810],2980.0,1
+log_2228_1708943197.xes,['drift_1'],['sudden'],['sudden'],,[1409],3170.0,1
+log_2229_1708943201.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1984, 3592]",4934.0,2
+log_2232_1708943212.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1745, 3384]",5254.0,2
+log_2238_1708943241.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1853, 3186]",4551.0,2
+log_2239_1708943247.xes,['drift_1'],['sudden'],['sudden'],,[1747],3315.0,1
+log_2242_1708943265.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1226, 2469]",4102.0,2
+log_224_1708942886.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1729, 2893, 4254]",5584.0,3
+log_2253_1708943133.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1906, 2981, 4660]",6547.0,3
+log_2259_1708943181.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1776, 3374, 4832]",6608.0,3
+log_2268_1708943215.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1311, 2855]",4805.0,2
+log_2271_1708943227.xes,['drift_1'],['sudden'],['sudden'],,[1534],3084.0,1
+log_2273_1708943237.xes,['drift_1'],['sudden'],['sudden'],,[1817],2913.0,1
+log_2274_1708943238.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1706, 3273, 4528]",6480.0,3
+log_2277_1708943258.xes,['drift_1'],['sudden'],['sudden'],,[1507],3218.0,1
+log_2289_1708943139.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1885, 3171, 4831]",6458.0,3
+log_2294_1708943166.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1737, 3412]",5123.0,2
+log_2298_1708943182.xes,['drift_1'],['sudden'],['sudden'],,[1030],2352.0,1
+log_2299_1708943184.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1876, 3849]",5296.0,2
+log_2303_1708943204.xes,['drift_1'],['sudden'],['sudden'],,[1700],3044.0,1
+log_2313_1708943274.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1524, 3334]",4728.0,2
+log_231_1708942742.xes,['drift_1'],['sudden'],['sudden'],,[1863],3184.0,1
+log_2321_1708943101.xes,['drift_1'],['sudden'],['sudden'],,[1662],2904.0,1
+log_2323_1708943107.xes,['drift_1'],['sudden'],['sudden'],,[1040],2706.0,1
+log_2329_1708943152.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1414, 3137]",4549.0,2
+log_2331_1708943158.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1265, 2511, 4376]",5696.0,3
+log_2332_1708943172.xes,['drift_1'],['sudden'],['sudden'],,[1975],3625.0,1
+log_2335_1708943192.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1453, 2546]",4305.0,2
+log_2339_1708943209.xes,['drift_1'],['sudden'],['sudden'],,[1494],3027.0,1
+log_2344_1708943226.xes,['drift_1'],['sudden'],['sudden'],,[1514],3457.0,1
+log_2348_1708943241.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1339, 2699, 4370]",6086.0,3
+log_234_1708942756.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1826, 2990]",4756.0,2
+log_2352_1708943264.xes,['drift_1'],['sudden'],['sudden'],,[1186],2972.0,1
+log_2354_1708943272.xes,['drift_1'],['sudden'],['sudden'],,[1774],3309.0,1
+log_2359_1708943107.xes,['drift_1'],['sudden'],['sudden'],,[1139],2400.0,1
+log_235_1708942760.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1466, 2680, 4323]",5934.0,3
+log_2360_1708943108.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1441, 2834, 3866]",5082.0,3
+log_2364_1708943123.xes,['drift_1'],['sudden'],['sudden'],,[1460],2690.0,1
+log_2365_1708943126.xes,['drift_1'],['sudden'],['sudden'],,[1033],2170.0,1
+log_2370_1708943142.xes,['drift_1'],['sudden'],['sudden'],,[1132],3125.0,1
+log_2371_1708943144.xes,['drift_1'],['sudden'],['sudden'],,[1038],2905.0,1
+log_2374_1708943165.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1569, 3305, 4420]",6401.0,3
+log_2376_1708943171.xes,['drift_1'],['sudden'],['sudden'],,[1905],3844.0,1
+log_2383_1708943200.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1793, 3238]",5219.0,2
+log_2385_1708943222.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1552, 2712, 4241]",5680.0,3
+log_2393_1708943255.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1529, 3234]",4829.0,2
+log_2401_1708943136.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1624, 2674]",3677.0,2
+log_2416_1708943209.xes,['drift_1'],['sudden'],['sudden'],,[1429],3354.0,1
+log_2420_1708943236.xes,['drift_1'],['sudden'],['sudden'],,[1029],2621.0,1
+log_2424_1708943260.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1865, 3728]",5375.0,2
+log_2427_1708943276.xes,['drift_1'],['sudden'],['sudden'],,[1392],2882.0,1
+log_2428_1708943278.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1231, 2636]",4144.0,2
+log_2437_1708943137.xes,['drift_1'],['sudden'],['sudden'],,[1465],2799.0,1
+log_2439_1708943145.xes,['drift_1'],['sudden'],['sudden'],,[1888],3389.0,1
+log_2440_1708943149.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1126, 2885]",4215.0,2
+log_2444_1708943167.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1227, 3138]",4539.0,2
+log_244_1708942812.xes,['drift_1'],['sudden'],['sudden'],,[1725],3330.0,1
+log_2450_1708943202.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1035, 2263, 4031]",5183.0,3
+log_2452_1708943209.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1302, 2755, 4105]",5766.0,3
+log_2454_1708943220.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1690, 3631, 4688]",6009.0,3
+log_2461_1708943249.xes,['drift_1'],['sudden'],['sudden'],,[1863],3482.0,1
+log_246_1708942820.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1162, 2964]",4017.0,2
+log_247_1708942822.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1374, 3243]",5189.0,2
+log_2488_1708943197.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1815, 3639]",5072.0,2
+log_2490_1708943205.xes,['drift_1'],['sudden'],['sudden'],,[1900],3238.0,1
+log_2491_1708943208.xes,['drift_1'],['sudden'],['sudden'],,[1681],3070.0,1
+log_2497_1708943232.xes,['drift_1'],['sudden'],['sudden'],,[1103],3071.0,1
+log_2498_1708943237.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1925, 3162]",4328.0,2
+log_2499_1708943243.xes,['drift_1'],['sudden'],['sudden'],,[1924],3370.0,1
+log_24_1708942838.xes,['drift_1'],['sudden'],['sudden'],,[1874],2983.0,1
+log_250_1708942831.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1356, 2616]",4366.0,2
+log_2511_1708943117.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1469, 3172]",4982.0,2
+log_2512_1708943120.xes,['drift_1'],['sudden'],['sudden'],,[1548],3361.0,1
+log_2522_1708943183.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1289, 3135, 5042]",6455.0,3
+log_2526_1708943199.xes,['drift_1'],['sudden'],['sudden'],,[1119],2291.0,1
+log_252_1708942840.xes,['drift_1'],['sudden'],['sudden'],,[1554],2807.0,1
+log_2536_1708943242.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1890, 3013, 4968]",6500.0,3
+log_2545_1708943280.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1311, 3195, 4794]",5795.0,3
+log_2563_1708943203.xes,['drift_1'],['sudden'],['sudden'],,[1862],3548.0,1
+log_2565_1708943211.xes,['drift_1'],['sudden'],['sudden'],,[1532],2721.0,1
+log_2566_1708943213.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1370, 2562, 3633]",4877.0,3
+log_256_1708942852.xes,['drift_1'],['sudden'],['sudden'],,[1894],2981.0,1
+log_2571_1708943229.xes,['drift_1'],['sudden'],['sudden'],,[1449],3379.0,1
+log_2575_1708943246.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1816, 3200, 4817]",6040.0,3
+log_2580_1708943275.xes,['drift_1'],['sudden'],['sudden'],,[1742],3317.0,1
+log_2590_1708943149.xes,['drift_1'],['sudden'],['sudden'],,[1170],2402.0,1
+log_2592_1708943157.xes,['drift_1'],['sudden'],['sudden'],,[1295],2977.0,1
+log_2594_1708943163.xes,['drift_1'],['sudden'],['sudden'],,[1265],3085.0,1
+log_2603_1708943213.xes,['drift_1'],['sudden'],['sudden'],,[1638],2828.0,1
+log_2605_1708943220.xes,['drift_1'],['sudden'],['sudden'],,[1956],3597.0,1
+log_2606_1708943226.xes,['drift_1'],['sudden'],['sudden'],,[1443],3194.0,1
+log_2609_1708943240.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1235, 2671]",4430.0,2
+log_2610_1708943246.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1714, 2804, 3858]",5793.0,3
+log_2611_1708943251.xes,['drift_1'],['sudden'],['sudden'],,[1231],2395.0,1
+log_2626_1708943143.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1677, 2711, 3905]",4954.0,3
+log_2632_1708943186.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1467, 2841, 4391]",5873.0,3
+log_2634_1708943194.xes,['drift_1'],['sudden'],['sudden'],,[1010],2917.0,1
+log_2636_1708943198.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1403, 3071]",4849.0,2
+log_2637_1708943201.xes,['drift_1'],['sudden'],['sudden'],,[1426],3012.0,1
+log_2640_1708943222.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1447, 3089]",4223.0,2
+log_2641_1708943225.xes,['drift_1'],['sudden'],['sudden'],,[1195],2865.0,1
+log_2648_1708943258.xes,['drift_1'],['sudden'],['sudden'],,[1279],2635.0,1
+log_2655_1708943283.xes,['drift_1'],['sudden'],['sudden'],,[1878],3198.0,1
+log_2656_1708943287.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1844, 3570]",4940.0,2
+log_2662_1708943142.xes,['drift_1'],['sudden'],['sudden'],,[1282],2934.0,1
+log_2670_1708943182.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1013, 2623, 4114]",5175.0,3
+log_2673_1708943197.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1004, 3003]",4756.0,2
+log_2676_1708943223.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1670, 3186]",4477.0,2
+log_2684_1708943262.xes,['drift_1'],['sudden'],['sudden'],,[1731],3231.0,1
+log_2697_1708943321.xes,['drift_1'],['sudden'],['sudden'],,[1308],2412.0,1
+log_2698_1708943322.xes,['drift_1'],['sudden'],['sudden'],,[1456],2931.0,1
+log_2699_1708943140.xes,['drift_1'],['sudden'],['sudden'],,[1449],2738.0,1
+log_26_1708942845.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1380, 2456]",3763.0,2
+log_2701_1708943146.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1334, 2882, 3920]",5155.0,3
+log_2702_1708943149.xes,['drift_1'],['sudden'],['sudden'],,[1860],2984.0,1
+log_2705_1708943171.xes,['drift_1'],['sudden'],['sudden'],,[1142],2640.0,1
+log_2706_1708943173.xes,['drift_1'],['sudden'],['sudden'],,[1138],2152.0,1
+log_2711_1708943193.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1370, 2704]",4036.0,2
+log_2717_1708943225.xes,['drift_1'],['sudden'],['sudden'],,[1999],3166.0,1
+log_2723_1708943253.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1880, 3857]",5142.0,2
+log_2731_1708943277.xes,['drift_1'],['sudden'],['sudden'],,[1572],3470.0,1
+log_2739_1708943155.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1837, 3508]",5364.0,2
+log_2742_1708943169.xes,['drift_1'],['sudden'],['sudden'],,[1406],2426.0,1
+log_2749_1708943216.xes,['drift_1'],['sudden'],['sudden'],,[1834],3199.0,1
+log_2750_1708943218.xes,['drift_1'],['sudden'],['sudden'],,[1042],2115.0,1
+log_2751_1708943223.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1963, 3239]",4545.0,2
+log_2753_1708943227.xes,['drift_1'],['sudden'],['sudden'],,[1384],3338.0,1
+log_2764_1708943288.xes,['drift_1'],['sudden'],['sudden'],,[1697],2979.0,1
+log_2765_1708943290.xes,['drift_1'],['sudden'],['sudden'],,[1547],2605.0,1
+log_2768_1708943306.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1156, 2574, 4122]",5348.0,3
+log_2771_1708943319.xes,['drift_1'],['sudden'],['sudden'],,[1975],3247.0,1
+log_2775_1708943147.xes,['drift_1'],['sudden'],['sudden'],,[1708],3430.0,1
+log_2777_1708943152.xes,['drift_1'],['sudden'],['sudden'],,[1868],3283.0,1
+log_2778_1708943155.xes,['drift_1'],['sudden'],['sudden'],,[1089],2877.0,1
+log_2788_1708943188.xes,['drift_1'],['sudden'],['sudden'],,[1712],3336.0,1
+log_2792_1708943197.xes,['drift_1'],['sudden'],['sudden'],,[1230],2575.0,1
+log_2794_1708943206.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1244, 2939, 4562]",5662.0,3
+log_2795_1708943214.xes,['drift_1'],['sudden'],['sudden'],,[1603],3566.0,1
+log_2797_1708943223.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1495, 3312, 5231]",6843.0,3
+log_2799_1708943245.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1026, 2278, 4189]",5771.0,3
+log_279_1708942785.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1981, 3078]",4993.0,2
+log_2801_1708943252.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1179, 2420]",3885.0,2
+log_2804_1708943272.xes,['drift_1'],['sudden'],['sudden'],,[1732],3100.0,1
+log_2805_1708943277.xes,['drift_1'],['sudden'],['sudden'],,[1410],3225.0,1
+log_2806_1708943279.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1035, 2283, 4169]",5993.0,3
+log_2807_1708943284.xes,['drift_1'],['sudden'],['sudden'],,[1211],2215.0,1
+log_280_1708942788.xes,['drift_1'],['sudden'],['sudden'],,[1017],2256.0,1
+log_2810_1708943291.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1858, 3727]",5431.0,2
+log_2813_1708943149.xes,['drift_1'],['sudden'],['sudden'],,[1805],2952.0,1
+log_2818_1708943171.xes,['drift_1'],['sudden'],['sudden'],,[1099],2667.0,1
+log_281_1708942790.xes,['drift_1'],['sudden'],['sudden'],,[1378],3242.0,1
+log_2822_1708943198.xes,['drift_1'],['sudden'],['sudden'],,[1615],3290.0,1
+log_2825_1708943206.xes,['drift_1'],['sudden'],['sudden'],,[1120],2465.0,1
+log_2827_1708943214.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[2000, 3661, 4667]",6632.0,3
+log_282_1708942794.xes,['drift_1'],['sudden'],['sudden'],,[1754],3480.0,1
+log_2830_1708943228.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1091, 2272]",3748.0,2
+log_2834_1708943242.xes,['drift_1'],['sudden'],['sudden'],,[1170],2300.0,1
+log_2841_1708943265.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1495, 2511]",4165.0,2
+log_2854_1708943235.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1093, 2453]",4387.0,2
+log_2856_1708943249.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1748, 3453]",5203.0,2
+log_2862_1708943282.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1115, 2919, 4675]",6618.0,3
+log_2863_1708943288.xes,['drift_1'],['sudden'],['sudden'],,[1244],2271.0,1
+log_2865_1708943293.xes,['drift_1'],['sudden'],['sudden'],,[1025],2162.0,1
+log_2866_1708943294.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1350, 2554, 4115]",5824.0,3
+log_2874_1708943328.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1405, 2496]",3632.0,2
+log_2875_1708943333.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1765, 3686, 5377]",6440.0,3
+log_287_1708942813.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1697, 2778, 3932]",5931.0,3
+log_2881_1708943363.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1118, 2655]",4495.0,2
+log_2885_1708943397.xes,['drift_1'],['sudden'],['sudden'],,[1933],3910.0,1
+log_2888_1708943415.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1379, 3157]",4546.0,2
+log_2893_1708943241.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1860, 3129, 4359]",5420.0,3
+log_2904_1708943293.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1616, 3277, 4883]",6410.0,3
+log_2908_1708943320.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1128, 2946]",4089.0,2
+log_2910_1708943328.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1138, 2823]",4778.0,2
+log_291_1708942855.xes,['drift_1'],['sudden'],['sudden'],,[1245],3024.0,1
+log_2920_1708943395.xes,['drift_1'],['sudden'],['sudden'],,[1303],2829.0,1
+log_2927_1708943223.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1120, 2356]",3795.0,2
+log_2929_1708943233.xes,['drift_1'],['sudden'],['sudden'],,[1179],2835.0,1
+log_2936_1708943272.xes,['drift_1'],['sudden'],['sudden'],,[1063],2438.0,1
+log_2937_1708943278.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1315, 2663, 4533]",5633.0,3
+log_2938_1708943290.xes,['drift_1'],['sudden'],['sudden'],,[1749],3629.0,1
+log_2948_1708943344.xes,['drift_1'],['sudden'],['sudden'],,[1127],2998.0,1
+log_2949_1708943346.xes,['drift_1'],['sudden'],['sudden'],,[1966],3488.0,1
+log_2959_1708943397.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1425, 3247]",4434.0,2
+log_2961_1708943404.xes,['drift_1'],['sudden'],['sudden'],,[1076],3061.0,1
+log_2972_1708943267.xes,['drift_1'],['sudden'],['sudden'],,[1472],3017.0,1
+log_2973_1708943270.xes,['drift_1'],['sudden'],['sudden'],,[1499],2807.0,1
+log_2977_1708943294.xes,['drift_1'],['sudden'],['sudden'],,[1685],3193.0,1
+log_2979_1708943309.xes,['drift_1'],['sudden'],['sudden'],,[1710],2950.0,1
+log_2980_1708943314.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1700, 3187]",4239.0,2
+log_2982_1708943322.xes,['drift_1'],['sudden'],['sudden'],,[1411],2762.0,1
+log_298_1708942896.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1232, 3100]",4511.0,2
+log_2994_1708943379.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1999, 3530, 4582]",6381.0,3
+log_2995_1708943390.xes,['drift_1'],['sudden'],['sudden'],,[1282],2475.0,1
+log_2996_1708943392.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1286, 2387]",3948.0,2
+log_2999_1708943400.xes,['drift_1'],['sudden'],['sudden'],,[1656],3373.0,1
+log_3000_1708943404.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1948, 3653]",5264.0,2
+log_300_1708942903.xes,['drift_1'],['sudden'],['sudden'],,[1080],2868.0,1
+log_3012_1708943265.xes,['drift_1'],['sudden'],['sudden'],,[1264],2304.0,1
+log_3019_1708943288.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1790, 3021, 4917]",6422.0,3
+log_3022_1708943307.xes,['drift_1'],['sudden'],['sudden'],,[1692],2793.0,1
+log_3024_1708943310.xes,['drift_1'],['sudden'],['sudden'],,[1186],2288.0,1
+log_3029_1708943351.xes,['drift_1'],['sudden'],['sudden'],,[1182],2868.0,1
+log_3045_1708943277.xes,['drift_1'],['sudden'],['sudden'],,[1849],3465.0,1
+log_3046_1708943280.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1192, 3094]",4990.0,2
+log_3056_1708943370.xes,['drift_1'],['sudden'],['sudden'],,[1660],2661.0,1
+log_3063_1708943413.xes,['drift_1'],['sudden'],['sudden'],,[1909],3068.0,1
+log_3078_1708943471.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1751, 3427, 4446]",5544.0,3
+log_3083_1708943284.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1635, 2808]",4662.0,2
+log_308_1708942748.xes,['drift_1'],['sudden'],['sudden'],,[1131],3107.0,1
+log_3095_1708943349.xes,['drift_1'],['sudden'],['sudden'],,[1566],2853.0,1
+log_309_1708942749.xes,['drift_1'],['sudden'],['sudden'],,[1114],2718.0,1
+log_3100_1708943368.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1619, 2824, 4704]",6003.0,3
+log_3107_1708943401.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1407, 2758]",4361.0,2
+log_3113_1708943431.xes,['drift_1'],['sudden'],['sudden'],,[1019],2552.0,1
+log_3118_1708943275.xes,['drift_1'],['sudden'],['sudden'],,[1959],3428.0,1
+log_3121_1708943290.xes,['drift_1'],['sudden'],['sudden'],,[1043],2861.0,1
+log_3126_1708943314.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1931, 3626, 4790]",6757.0,3
+log_3130_1708943337.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1372, 2650]",4258.0,2
+log_3131_1708943342.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1168, 2349]",4211.0,2
+log_3132_1708943345.xes,['drift_1'],['sudden'],['sudden'],,[1184],2964.0,1
+log_3133_1708943348.xes,['drift_1'],['sudden'],['sudden'],,[1763],3283.0,1
+log_3139_1708943375.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1091, 2501]",4340.0,2
+log_3142_1708943386.xes,['drift_1'],['sudden'],['sudden'],,[1965],3404.0,1
+log_3145_1708943398.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1238, 2269, 3708]",4901.0,3
+log_3148_1708943412.xes,['drift_1'],['sudden'],['sudden'],,[1756],3529.0,1
+log_3171_1708943356.xes,['drift_1'],['sudden'],['sudden'],,[1044],2292.0,1
+log_3173_1708943363.xes,['drift_1'],['sudden'],['sudden'],,[1061],2087.0,1
+log_3174_1708943366.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1756, 3047]",4411.0,2
+log_3182_1708943419.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1088, 2343]",4342.0,2
+log_3199_1708943306.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1027, 2859]",4517.0,2
+log_321_1708942806.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1107, 2821]",3858.0,2
+log_3222_1708943441.xes,['drift_1'],['sudden'],['sudden'],,[1930],3482.0,1
+log_3223_1708943443.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1568, 2733, 4648]",6630.0,3
+log_3224_1708943447.xes,['drift_1'],['sudden'],['sudden'],,[1556],2752.0,1
+log_3225_1708943448.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1590, 2891]",4366.0,2
+log_3232_1708943296.xes,['drift_1'],['sudden'],['sudden'],,[1596],3079.0,1
+log_3234_1708943307.xes,['drift_1'],['sudden'],['sudden'],,[1299],2938.0,1
+log_3238_1708943337.xes,['drift_1'],['sudden'],['sudden'],,[1510],2808.0,1
+log_3239_1708943339.xes,['drift_1'],['sudden'],['sudden'],,[1349],2363.0,1
+log_3241_1708943340.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1543, 2981]",4547.0,2
+log_3245_1708943377.xes,['drift_1'],['sudden'],['sudden'],,[1032],2051.0,1
+log_3246_1708943380.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1891, 3635, 4922]",6918.0,3
+log_3247_1708943384.xes,['drift_1'],['sudden'],['sudden'],,[1936],3147.0,1
+log_3248_1708943387.xes,['drift_1'],['sudden'],['sudden'],,[1606],2751.0,1
+log_3251_1708943392.xes,['drift_1'],['sudden'],['sudden'],,[1967],3315.0,1
+log_3264_1708943438.xes,['drift_1'],['sudden'],['sudden'],,[1911],3353.0,1
+log_3266_1708943441.xes,['drift_1'],['sudden'],['sudden'],,[1630],3382.0,1
+log_3272_1708943305.xes,['drift_1'],['sudden'],['sudden'],,[1337],2639.0,1
+log_3274_1708943312.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1389, 2808]",4018.0,2
+log_3280_1708943340.xes,['drift_1'],['sudden'],['sudden'],,[1977],3036.0,1
+log_3281_1708943343.xes,['drift_1'],['sudden'],['sudden'],,[1728],3308.0,1
+log_3284_1708943355.xes,['drift_1'],['sudden'],['sudden'],,[1520],2861.0,1
+log_3290_1708943380.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1013, 2887]",4154.0,2
+log_3291_1708943384.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1445, 2914]",4617.0,2
+log_32_1708942875.xes,['drift_1'],['sudden'],['sudden'],,[1388],2435.0,1
+log_330_1708942850.xes,['drift_1'],['sudden'],['sudden'],,[1186],2412.0,1
+log_3310_1708943302.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1014, 2305, 4301]",6123.0,3
+log_3311_1708943308.xes,['drift_1'],['sudden'],['sudden'],,[1773],3551.0,1
+log_3315_1708943334.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1861, 3844]",5357.0,2
+log_3316_1708943339.xes,['drift_1'],['sudden'],['sudden'],,[1938],3178.0,1
+log_3317_1708943342.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1918, 3559]",5075.0,2
+log_3321_1708943363.xes,['drift_1'],['sudden'],['sudden'],,[1181],3128.0,1
+log_3329_1708943406.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1388, 3382]",4965.0,2
+log_3338_1708943458.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1833, 3762]",4921.0,2
+log_3353_1708943325.xes,['drift_1'],['sudden'],['sudden'],,[1698],2898.0,1
+log_3356_1708943337.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1145, 2953]",4921.0,2
+log_3367_1708943390.xes,['drift_1'],['sudden'],['sudden'],,[1363],3338.0,1
+log_336_1708942910.xes,['drift_1'],['sudden'],['sudden'],,[1528],2825.0,1
+log_3378_1708943438.xes,['drift_1'],['sudden'],['sudden'],,[1870],3067.0,1
+log_3379_1708943440.xes,['drift_1'],['sudden'],['sudden'],,[1292],3141.0,1
+log_3382_1708943446.xes,['drift_1'],['sudden'],['sudden'],,[1659],3215.0,1
+log_3390_1708943327.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[2001, 3521]",5275.0,2
+log_3396_1708943343.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1458, 2699]",4566.0,2
+log_339_1708942920.xes,['drift_1'],['sudden'],['sudden'],,[1732],2976.0,1
+log_3403_1708943370.xes,['drift_1'],['sudden'],['sudden'],,[1822],3078.0,1
+log_3408_1708943390.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1022, 2790]",4382.0,2
+log_3410_1708943394.xes,['drift_1'],['sudden'],['sudden'],,[1370],3086.0,1
+log_3414_1708943428.xes,['drift_1'],['sudden'],['sudden'],,[1247],2543.0,1
+log_3420_1708943445.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1020, 2737]",4619.0,2
+log_3422_1708943306.xes,['drift_1'],['sudden'],['sudden'],,[1633],3550.0,1
+log_3423_1708943309.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1770, 3404]",4449.0,2
+log_3424_1708943312.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1767, 3459]",5076.0,2
+log_342_1708942935.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1812, 3488]",4583.0,2
+log_3430_1708943337.xes,['drift_1'],['sudden'],['sudden'],,[1025],2908.0,1
+log_3434_1708943357.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1039, 3035]",4846.0,2
+log_3443_1708943400.xes,['drift_1'],['sudden'],['sudden'],,[1058],2933.0,1
+log_3444_1708943404.xes,['drift_1'],['sudden'],['sudden'],,[1397],3244.0,1
+log_3457_1708943453.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1917, 3219, 4542]",6499.0,3
+log_3459_1708943304.xes,['drift_1'],['sudden'],['sudden'],,[1210],2998.0,1
+log_3463_1708943313.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1964, 3527]",5020.0,2
+log_3465_1708943331.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1180, 2198]",3711.0,2
+log_3468_1708943336.xes,['drift_1'],['sudden'],['sudden'],,[1752],2906.0,1
+log_3469_1708943337.xes,['drift_1'],['sudden'],['sudden'],,[1522],3072.0,1
+log_3471_1708943344.xes,['drift_1'],['sudden'],['sudden'],,[1893],3278.0,1
+log_3480_1708943399.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1628, 3001]",4722.0,2
+log_3483_1708943425.xes,['drift_1'],['sudden'],['sudden'],,[1725],3066.0,1
+log_3486_1708943436.xes,['drift_1'],['sudden'],['sudden'],,[1618],3573.0,1
+log_3487_1708943439.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1542, 2911]",4441.0,2
+log_3490_1708943457.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1892, 3073]",4322.0,2
+log_3496_1708943467.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[2001, 3866]",4976.0,2
+log_3497_1708943305.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1711, 3396]",4961.0,2
+log_3499_1708943316.xes,['drift_1'],['sudden'],['sudden'],,[1341],2717.0,1
+log_34_1708942879.xes,['drift_1'],['sudden'],['sudden'],,[1651],3486.0,1
+log_350_1708942760.xes,['drift_1'],['sudden'],['sudden'],,[1478],3080.0,1
+log_3514_1708943370.xes,['drift_1'],['sudden'],['sudden'],,[1675],2864.0,1
+log_3516_1708943379.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1923, 3321]",5108.0,2
+log_3517_1708943384.xes,['drift_1'],['sudden'],['sudden'],,[1349],2990.0,1
+log_3518_1708943387.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1542, 3235]",5193.0,2
+log_351_1708942762.xes,['drift_1'],['sudden'],['sudden'],,[1716],3020.0,1
+log_3521_1708943405.xes,['drift_1'],['sudden'],['sudden'],,[1108],2728.0,1
+log_3523_1708943408.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1417, 3106, 4559]",5758.0,3
+log_352_1708942763.xes,['drift_1'],['sudden'],['sudden'],,[1493],2832.0,1
+log_3536_1708943313.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1883, 3558]",4856.0,2
+log_3543_1708943360.xes,['drift_1'],['sudden'],['sudden'],,[1478],3323.0,1
+log_3548_1708943374.xes,['drift_1'],['sudden'],['sudden'],,[1002],2346.0,1
+log_3551_1708943392.xes,['drift_1'],['sudden'],['sudden'],,[1804],3450.0,1
+log_3553_1708943398.xes,['drift_1'],['sudden'],['sudden'],,[1988],3901.0,1
+log_3555_1708943412.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1855, 3802, 4934]",6857.0,3
+log_3556_1708943418.xes,['drift_1'],['sudden'],['sudden'],,[1698],3013.0,1
+log_3557_1708943419.xes,['drift_1'],['sudden'],['sudden'],,[1905],3139.0,1
+log_3559_1708943422.xes,['drift_1'],['sudden'],['sudden'],,[1165],2567.0,1
+log_355_1708942781.xes,['drift_1'],['sudden'],['sudden'],,[1959],3227.0,1
+log_3560_1708943425.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1030, 2674, 4282]",5911.0,3
+log_3565_1708943447.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1515, 2966]",3968.0,2
+log_3567_1708943455.xes,['drift_1'],['sudden'],['sudden'],,[1477],3404.0,1
+log_3572_1708943467.xes,['drift_1'],['sudden'],['sudden'],,[1144],2617.0,1
+log_3578_1708943332.xes,['drift_1'],['sudden'],['sudden'],,[1476],3437.0,1
+log_3579_1708943333.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1817, 3243]",4436.0,2
+log_3587_1708943377.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1040, 2797]",4056.0,2
+log_3589_1708943385.xes,['drift_1'],['sudden'],['sudden'],,[1420],2496.0,1
+log_3591_1708943392.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1877, 2899]",4422.0,2
+log_3597_1708943433.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1723, 3174]",4314.0,2
+log_3605_1708943470.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1227, 2665]",3885.0,2
+log_3606_1708943472.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1965, 3699, 5537]",7046.0,3
+log_3612_1708943320.xes,['drift_1'],['sudden'],['sudden'],,[1584],3020.0,1
+log_3617_1708943339.xes,['drift_1'],['sudden'],['sudden'],,[1762],3735.0,1
+log_3618_1708943342.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1047, 2286]",3696.0,2
+log_3620_1708943350.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1590, 3342]",4755.0,2
+log_3621_1708943352.xes,['drift_1'],['sudden'],['sudden'],,[1732],2993.0,1
+log_3622_1708943355.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1272, 2813, 4764]",6476.0,3
+log_3628_1708943373.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1994, 3565]",5221.0,2
+log_362_1708942811.xes,['drift_1'],['sudden'],['sudden'],,[1235],3093.0,1
+log_3630_1708943391.xes,['drift_1'],['sudden'],['sudden'],,[1996],3860.0,1
+log_3631_1708943393.xes,['drift_1'],['sudden'],['sudden'],,[1804],3031.0,1
+log_3632_1708943398.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1406, 2990]",4469.0,2
+log_3633_1708943401.xes,['drift_1'],['sudden'],['sudden'],,[1229],2879.0,1
+log_3636_1708943410.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1988, 3544]",4612.0,2
+log_3638_1708943418.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1463, 3224]",4397.0,2
+log_363_1708942814.xes,['drift_1'],['sudden'],['sudden'],,[1766],3373.0,1
+log_3643_1708943438.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1878, 3511]",5270.0,2
+log_3644_1708943442.xes,['drift_1'],['sudden'],['sudden'],,[1134],2637.0,1
+log_3647_1708943450.xes,['drift_1'],['sudden'],['sudden'],,[1438],2970.0,1
+log_364_1708942816.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1638, 2987]",4819.0,2
+log_3653_1708943336.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1106, 3062]",4223.0,2
+log_3671_1708943432.xes,['drift_1'],['sudden'],['sudden'],,[1872],3133.0,1
+log_3675_1708943440.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1046, 2697, 4418]",6201.0,3
+log_3679_1708943459.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1854, 3425]",5397.0,2
+log_3690_1708943329.xes,['drift_1'],['sudden'],['sudden'],,[1128],2502.0,1
+log_3704_1708943408.xes,['drift_1'],['sudden'],['sudden'],,[1770],3453.0,1
+log_3705_1708943410.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1472, 2862, 4621]",6095.0,3
+log_3708_1708943423.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1719, 3106, 4291]",5454.0,3
+log_370_1708942851.xes,['drift_1'],['sudden'],['sudden'],,[1881],3032.0,1
+log_3711_1708943443.xes,['drift_1'],['sudden'],['sudden'],,[1202],2999.0,1
+log_3713_1708943449.xes,['drift_1'],['sudden'],['sudden'],,[1408],3382.0,1
+log_3716_1708943458.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1372, 2381, 4335]",5969.0,3
+log_3724_1708943484.xes,['drift_1'],['sudden'],['sudden'],,[1248],2348.0,1
+log_3726_1708943329.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1760, 3747, 4887]",6159.0,3
+log_372_1708942855.xes,['drift_1'],['sudden'],['sudden'],,[1798],3748.0,1
+log_3733_1708943358.xes,['drift_1'],['sudden'],['sudden'],,[1532],2725.0,1
+log_3738_1708943389.xes,['drift_1'],['sudden'],['sudden'],,[1947],3348.0,1
+log_3740_1708943397.xes,['drift_1'],['sudden'],['sudden'],,[1378],3319.0,1
+log_374_1708942862.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1549, 2634]",4551.0,2
+log_376_1708942879.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1242, 3079]",4677.0,2
+log_37_1708942889.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1717, 2732]",4568.0,2
+log_382_1708942734.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1542, 3084]",4882.0,2
+log_398_1708942815.xes,['drift_1'],['sudden'],['sudden'],,[1032],2796.0,1
+log_399_1708942818.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1589, 2832, 4320]",6074.0,3
+log_403_1708942828.xes,['drift_1'],['sudden'],['sudden'],,[1840],2843.0,1
+log_412_1708942870.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1890, 3864]",5709.0,2
+log_413_1708942875.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1863, 3072]",4923.0,2
+log_415_1708942882.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1829, 3056]",4123.0,2
+log_424_1708942750.xes,['drift_1'],['sudden'],['sudden'],,[1513],2777.0,1
+log_435_1708942791.xes,['drift_1'],['sudden'],['sudden'],,[1275],2735.0,1
+log_437_1708942797.xes,['drift_1'],['sudden'],['sudden'],,[1730],2857.0,1
+log_444_1708942828.xes,['drift_1'],['sudden'],['sudden'],,[1458],2989.0,1
+log_446_1708942841.xes,['drift_1'],['sudden'],['sudden'],,[1531],3200.0,1
+log_458_1708942736.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1355, 2624]",4140.0,2
+log_460_1708942741.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1713, 3608, 5107]",6361.0,3
+log_465_1708942766.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1007, 2606, 3775]",5386.0,3
+log_467_1708942780.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1985, 3106]",4295.0,2
+log_479_1708942849.xes,['drift_1'],['sudden'],['sudden'],,[1398],3306.0,1
+log_492_1708942906.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1382, 2882, 4072]",5432.0,3
+log_494_1708942920.xes,['drift_1'],['sudden'],['sudden'],,[1781],3669.0,1
+log_4_1708942744.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1640, 3358]",4442.0,2
+log_501_1708942762.xes,['drift_1'],['sudden'],['sudden'],,[1011],2243.0,1
+log_506_1708942780.xes,['drift_1'],['sudden'],['sudden'],,[1936],3631.0,1
+log_510_1708942791.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1742, 3252]",4738.0,2
+log_516_1708942843.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1601, 3152]",4569.0,2
+log_523_1708942905.xes,['drift_1'],['sudden'],['sudden'],,[1162],2218.0,1
+log_526_1708942914.xes,['drift_1'],['sudden'],['sudden'],,[1133],2907.0,1
+log_530_1708942935.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1063, 2926]",4487.0,2
+log_536_1708942744.xes,['drift_1'],['sudden'],['sudden'],,[1832],2961.0,1
+log_543_1708942766.xes,['drift_1'],['sudden'],['sudden'],,[1611],3429.0,1
+log_546_1708942777.xes,['drift_1'],['sudden'],['sudden'],,[1892],3779.0,1
+log_548_1708942791.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1530, 2916]",4738.0,2
+log_553_1708942815.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1570, 2838]",4029.0,2
+log_555_1708942820.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1038, 2567]",4446.0,2
+log_563_1708942861.xes,['drift_1'],['sudden'],['sudden'],,[1958],3707.0,1
+log_56_1708942825.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1167, 2229, 3584]",4909.0,3
+log_570_1708942888.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1986, 3019]",4193.0,2
+log_575_1708942756.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1649, 3201]",4233.0,2
+log_580_1708942781.xes,['drift_1'],['sudden'],['sudden'],,[1101],2272.0,1
+log_584_1708942795.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1836, 3059, 4799]",5890.0,3
+log_587_1708942804.xes,['drift_1'],['sudden'],['sudden'],,[1069],2356.0,1
+log_592_1708942818.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1858, 2959]",4369.0,2
+log_593_1708942822.xes,['drift_1'],['sudden'],['sudden'],,[1407],2522.0,1
+log_595_1708942832.xes,['drift_1'],['sudden'],['sudden'],,[1986],3676.0,1
+log_597_1708942838.xes,['drift_1'],['sudden'],['sudden'],,[1890],3685.0,1
+log_598_1708942840.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1230, 2715, 4386]",5507.0,3
+log_599_1708942846.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1179, 2311]",3408.0,2
+log_609_1708942732.xes,['drift_1'],['sudden'],['sudden'],,[1410],2609.0,1
+log_60_1708942845.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1801, 3263]",4349.0,2
+log_611_1708942735.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1042, 2683]",3771.0,2
+log_617_1708942753.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1829, 3706, 4757]",5891.0,3
+log_624_1708942801.xes,['drift_1'],['sudden'],['sudden'],,[1861],3613.0,1
+log_634_1708942830.xes,['drift_1'],['sudden'],['sudden'],,[1083],2391.0,1
+log_641_1708942858.xes,['drift_1'],['sudden'],['sudden'],,[1822],3591.0,1
+log_644_1708942870.xes,['drift_1'],['sudden'],['sudden'],,[1967],3386.0,1
+log_646_1708942878.xes,['drift_1'],['sudden'],['sudden'],,[1320],3163.0,1
+log_64_1708942861.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1658, 3610, 5410]",7148.0,3
+log_660_1708942808.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1787, 3617]",4723.0,2
+log_662_1708942816.xes,['drift_1'],['sudden'],['sudden'],,[1650],3497.0,1
+log_665_1708942830.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1452, 3092]",4129.0,2
+log_671_1708942862.xes,['drift_1'],['sudden'],['sudden'],,[1279],2890.0,1
+log_681_1708942917.xes,['drift_1'],['sudden'],['sudden'],,[1667],2701.0,1
+log_682_1708942922.xes,['drift_1'],['sudden'],['sudden'],,[1144],2436.0,1
+log_685_1708942732.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1990, 3195]",4716.0,2
+log_693_1708942782.xes,['drift_1'],['sudden'],['sudden'],,[1317],2324.0,1
+log_695_1708942792.xes,['drift_1'],['sudden'],['sudden'],,[1344],3145.0,1
+log_699_1708942812.xes,['drift_1'],['sudden'],['sudden'],,[1380],3256.0,1
+log_69_1708942893.xes,['drift_1'],['sudden'],['sudden'],,[1024],2784.0,1
+log_703_1708942831.xes,['drift_1'],['sudden'],['sudden'],,[1832],3436.0,1
+log_704_1708942834.xes,['drift_1'],['sudden'],['sudden'],,[1824],3002.0,1
+log_707_1708942839.xes,['drift_1'],['sudden'],['sudden'],,[1859],3435.0,1
+log_708_1708942842.xes,['drift_1'],['sudden'],['sudden'],,[1597],3378.0,1
+log_70_1708942895.xes,['drift_1'],['sudden'],['sudden'],,[1121],2500.0,1
+log_712_1708942874.xes,['drift_1'],['sudden'],['sudden'],,[1443],3350.0,1
+log_720_1708942903.xes,['drift_1'],['sudden'],['sudden'],,[1643],3255.0,1
+log_721_1708942905.xes,['drift_1'],['sudden'],['sudden'],,[1014],2266.0,1
+log_725_1708942742.xes,['drift_1'],['sudden'],['sudden'],,[1877],3804.0,1
+log_727_1708942748.xes,['drift_1'],['sudden'],['sudden'],,[1958],3573.0,1
+log_729_1708942752.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1811, 3747, 5236]",6550.0,3
+log_731_1708942770.xes,['drift_1'],['sudden'],['sudden'],,[1866],3346.0,1
+log_732_1708942773.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1345, 2932]",4584.0,2
+log_733_1708942775.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1664, 2979, 4975]",6752.0,3
+log_738_1708942818.xes,['drift_1'],['sudden'],['sudden'],,[1665],3255.0,1
+log_741_1708942829.xes,['drift_1'],['sudden'],['sudden'],,[1789],3128.0,1
+log_743_1708942833.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1376, 3085]",4848.0,2
+log_745_1708942843.xes,['drift_1'],['sudden'],['sudden'],,[1325],3150.0,1
+log_746_1708942845.xes,['drift_1'],['sudden'],['sudden'],,[1191],2218.0,1
+log_761_1708942732.xes,['drift_1'],['sudden'],['sudden'],,[1287],2941.0,1
+log_764_1708942745.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1622, 3575, 4665]",6654.0,3
+log_766_1708942755.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1585, 3283]",4605.0,2
+log_769_1708942776.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1997, 3682]",5596.0,2
+log_77_1708942732.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1343, 3289, 4422]",6021.0,3
+log_780_1708942819.xes,['drift_1'],['sudden'],['sudden'],,[1027],2359.0,1
+log_784_1708942840.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1038, 2899, 4256]",6013.0,3
+log_789_1708942867.xes,['drift_1'],['sudden'],['sudden'],,[1224],2347.0,1
+log_78_1708942752.xes,['drift_1'],['sudden'],['sudden'],,[1805],3771.0,1
+log_795_1708942890.xes,['drift_1'],['sudden'],['sudden'],,[1112],2749.0,1
+log_79_1708942755.xes,['drift_1'],['sudden'],['sudden'],,[1355],2767.0,1
+log_7_1708942758.xes,['drift_1'],['sudden'],['sudden'],,[1625],3287.0,1
+log_801_1708942742.xes,['drift_1'],['sudden'],['sudden'],,[1123],2381.0,1
+log_802_1708942745.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1522, 2535]",4475.0,2
+log_803_1708942749.xes,['drift_1'],['sudden'],['sudden'],,[1730],3586.0,1
+log_810_1708942809.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1479, 3470]",5033.0,2
+log_815_1708942841.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1713, 3171, 4922]",6652.0,3
+log_816_1708942848.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1137, 2729, 4365]",5716.0,3
+log_822_1708942888.xes,['drift_1'],['sudden'],['sudden'],,[1650],2973.0,1
+log_828_1708942912.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1461, 3043]",4461.0,2
+log_831_1708942930.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1892, 3063]",5022.0,2
+log_843_1708942770.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1707, 2941, 4400]",6069.0,3
+log_845_1708942776.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1263, 2371, 4333]",5935.0,3
+log_847_1708942788.xes,['drift_1'],['sudden'],['sudden'],,[1816],3278.0,1
+log_84_1708942776.xes,['drift_1'],['sudden'],['sudden'],,[1456],3011.0,1
+log_853_1708942818.xes,['drift_1'],['sudden'],['sudden'],,[1537],2563.0,1
+log_863_1708942874.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1372, 2815]",4588.0,2
+log_866_1708942882.xes,['drift_1'],['sudden'],['sudden'],,[1610],3297.0,1
+log_867_1708942883.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1890, 3132]",4754.0,2
+log_868_1708942888.xes,['drift_1'],['sudden'],['sudden'],,[1977],2981.0,1
+log_876_1708942736.xes,['drift_1'],['sudden'],['sudden'],,[1448],2641.0,1
+log_880_1708942746.xes,['drift_1'],['sudden'],['sudden'],,[1175],3144.0,1
+log_884_1708942759.xes,['drift_1'],['sudden'],['sudden'],,[1320],2402.0,1
+log_888_1708942777.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1763, 3748]",5026.0,2
+log_88_1708942783.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1162, 2213, 3854]",5374.0,3
+log_891_1708942785.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1916, 3847]",5182.0,2
+log_893_1708942794.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1525, 3140, 5005]",6477.0,3
+log_895_1708942805.xes,['drift_1'],['sudden'],['sudden'],,[1778],3516.0,1
+log_906_1708942872.xes,['drift_1'],['sudden'],['sudden'],,[1160],2993.0,1
+log_907_1708942874.xes,['drift_1'],['sudden'],['sudden'],,[1869],3119.0,1
+log_90_1708942790.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1826, 3613]",4849.0,2
+log_910_1708942882.xes,['drift_1'],['sudden'],['sudden'],,[1388],2546.0,1
+log_918_1708942752.xes,['drift_1'],['sudden'],['sudden'],,[1694],2951.0,1
+log_921_1708942761.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1438, 2948, 4812]",6527.0,3
+log_923_1708942766.xes,['drift_1'],['sudden'],['sudden'],,[1958],3612.0,1
+log_927_1708942777.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1861, 3351, 4665]",5796.0,3
+log_929_1708942785.xes,['drift_1'],['sudden'],['sudden'],,[1805],2910.0,1
+log_932_1708942794.xes,['drift_1'],['sudden'],['sudden'],,[1950],3374.0,1
+log_933_1708942796.xes,['drift_1'],['sudden'],['sudden'],,[1128],2274.0,1
+log_938_1708942825.xes,"['drift_1', 'drift_2', 'drift_3']","['sudden', 'sudden', 'sudden']","['sudden', 'sudden', 'sudden']",,"[1875, 3619, 4724]",5844.0,3
+log_953_1708942901.xes,['drift_1'],['sudden'],['sudden'],,[1538],3293.0,1
+log_966_1708942963.xes,['drift_1'],['sudden'],['sudden'],,[1657],2700.0,1
+log_968_1708942966.xes,['drift_1'],['sudden'],['sudden'],,[1488],2818.0,1
+log_96_1708942809.xes,['drift_1'],['sudden'],['sudden'],,[1843],3006.0,1
+log_971_1708942975.xes,['drift_1'],['sudden'],['sudden'],,[1204],2735.0,1
+log_978_1708943010.xes,['drift_1'],['sudden'],['sudden'],,[1062],2127.0,1
+log_979_1708943013.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1175, 2283]",4235.0,2
+log_980_1708943018.xes,['drift_1'],['sudden'],['sudden'],,[1327],3153.0,1
+log_986_1708943046.xes,['drift_1'],['sudden'],['sudden'],,[1035],2130.0,1
+log_98_1708942815.xes,"['drift_1', 'drift_2']","['sudden', 'sudden']","['sudden', 'sudden']",,"[1312, 2325]",3655.0,2
+log_996_1708942920.xes,['drift_1'],['sudden'],['sudden'],,[1402],2489.0,1
+log_998_1708942927.xes,['drift_1'],['sudden'],['sudden'],,[1622],2883.0,1
+log_999_1708942928.xes,['drift_1'],['sudden'],['sudden'],,[1822],3008.0,1
+log_99_1708942818.xes,['drift_1'],['sudden'],['sudden'],,[1203],2657.0,1

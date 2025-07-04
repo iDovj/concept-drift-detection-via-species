@@ -1,0 +1,8 @@
+pm4py
+pandas
+matplotlib
+seaborn
+special4pm
+cachetools
+mpmath
+special4pm
