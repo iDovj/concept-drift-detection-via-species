@@ -25,10 +25,6 @@ Core libraries:
 - cachetools  
 - mpmath  
 
-You can install everything in one go via:
-
-```bash
-pip install -r requirements.txt
 
 ## Repository structure
 
